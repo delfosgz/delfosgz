@@ -1,6 +1,6 @@
 ## Delfos here 🏛️
 
-- 🐍 **Python Enthusiast** – Like Apollo, slaying Python.
+- 🐍 **Python Enthusiast** – As Apollo conquest, slaying Python.
 - 🔮 **Data Science** – Not an oracle, but ML does well.
 
 
