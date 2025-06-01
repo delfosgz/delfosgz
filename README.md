@@ -1,7 +1,7 @@
 ## Delfos here 🏛️
 
 - 🔮 **Data Science** – Not an oracle, but ML does well.
-- 🐍 **Pythonista** – The guardian of the Oracle of Delphi
+- 🐍 **Pythonista** – Funny, the Oracle was guarded by a giant Python.
 
 
 
